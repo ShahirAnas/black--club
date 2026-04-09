@@ -1,0 +1,8 @@
+{
+  "name": "Remix: AgroAssist Pro",
+  "description": "A comprehensive farming companion app featuring soil health analysis, weather forecasting, a farm-to-home virtual market, and real-time market price trends powered by Gemini Pro.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
